@@ -1,6 +1,5 @@
-#1
 from random import choice
-
+#1
 first = 'Мама мыла раму'
 second = 'Рамена мало было'
 
